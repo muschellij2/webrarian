@@ -30,3 +30,4 @@
 ^man/figures/logo\.png$
 ^man/figures/webrarian-logo-.*-static\.svg$
 ^man/figures/webrarian-logo-light-animated\.svg$
+^webrarian\.Rproj$
